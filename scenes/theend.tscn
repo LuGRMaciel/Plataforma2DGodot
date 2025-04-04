@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://bsofnmsd7sflm"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+modulate = Color(0.558867, 0.249, 0.83, 1)
+offset_left = -87.0
+offset_top = -42.0
+offset_right = 403.0
+offset_bottom = 269.0
+
+[node name="Label2" type="Label" parent="."]
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="Label" type="Label" parent="."]
+modulate = Color(1, 0.3, 0.311666, 1)
+offset_left = 1.0
+offset_top = 4.0
+offset_right = 289.0
+offset_bottom = 209.0
+text = "Criação/Direção/Programação
+Luana
+
+Supervisão
+Professor
+
+OBRIGADA POR JOGAR 
+COM A GENTE ;)"
+horizontal_alignment = 1
